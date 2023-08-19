@@ -21,16 +21,11 @@ ReactJS e entre outras tecnologias.
 
 ---
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://morpheustecnologia.com/wp-content/uploads/2019/04/morpheus-1.svg"/>](https://www.https://morpheustecnologia.com/)
-
-**Software Engineer** \
-[**Morpheus Tecnologia**](https://www.https://morpheustecnologia.com/) • Improver \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `ReactJS`\
-<br/>
+<div>
+  <a href="https://github.com/BrunoDias312">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BrunoDias312&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDias312&layout=compact&langs_count=7&theme=default"/>
+</div>
 
 ---
 
