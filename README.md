@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Bruno Dias!</strong>
+## Olá, meu nome é <strong>Bruno Dias!</strong>
 
 > Ola, seja bem vindo ao meu repositorio git, por aqui você vai encontrar alguns de meus projetos pessoais e de cursos que tenho feito recentemente.
 
